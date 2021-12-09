@@ -1,4 +1,4 @@
-### Currently Focused On 👋
+### Currently Focused On https://img.shields.io/badge/Medium-Medium-lightgrey👋
 
 <p>
 <a href="https://twitter.com/Persie_verance">
@@ -6,7 +6,7 @@
 </a>&nbsp;&nbsp;
 
 <a href="https://medium.com/@theprasadpatil">
-   <img align="left" alt="Medium" src="https://img.shields.io/badge/Medium-9146FF?style=for-the-badge&logo=medium&logoColor=white" />
+   <img align="left" alt="Medium" src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
 </a>&nbsp;&nbsp;
 <p/>
 <br/>
