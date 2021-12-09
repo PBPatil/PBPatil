@@ -10,7 +10,7 @@
 </a>&nbsp;&nbsp;
    
 <a href="https://www.kaggle.com/prasad22">
-   <img align="left" alt="kaggle" src="https://img.shields.io/badge/k-20beff?style=for-the-badge&logo=kaggle&logoColor=white" />
+   <img align="left" alt="kaggle" src="https://img.shields.io/badge/Kaggle-4db5f5?style=for-the-badge&logo=kaggle&logoColor=white" />
 </a>&nbsp;&nbsp;   
 <p/>
 <br/>
