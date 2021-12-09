@@ -1,13 +1,21 @@
 ### Currently Focused On 👋
 
-Here are some ideas to get you started:
+<p>
+<a href="https://twitter.com/Persie_verance">
+   <img align="left" alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>&nbsp;&nbsp;
 
-- 🔭 I’m currently working on ... Natural Language Processing
-- 🌱 I’m currently learning ... Natural Language Processing
-- 👯 I’m looking to collaborate on ...Natural Language Processing
-- 🤔 I’m looking for help with ...Natural Language Processing
-- 💬 Ask me about ...Natural Language Processing
-- 📫 How to reach me: ...theprasadpatil.gmail.com
-- 😄 Pronouns: ... He/him
-- ⚡ Fun fact: ...I am a Gunner
+<a href="https://medium.com/@theprasadpatil">
+   <img align="left" alt="Medium" src="https://img.shields.io/badge/Medium-9146FF?style=for-the-badge&logo=medium&logoColor=white" />
+</a>&nbsp;&nbsp;
+<p/>
+<br/>
+<p>
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning Natural Language Processing
+- 💬 Ask me about Python, Datascience
+- 📫 How to reach me:[@Persie_verance](https://twitter.com/Persie_verance)
+
+
 -->
