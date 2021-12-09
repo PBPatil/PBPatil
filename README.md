@@ -15,10 +15,11 @@
 <p/>
 <br/>
 <p>
+   
 - 🌱 I’m currently learning Natural Language Processing
 - 💬 Ask me about Python, Datascience
 - 📫 You can reach me [@Persie_verance](https://twitter.com/Persie_verance)
-->   
+  
 </p>
 
 ![Prasad Patil Github Stats](https://github-readme-stats.vercel.app/api?username=PBPatil&show_icons=true&include_all_commits=true&theme=radical)
