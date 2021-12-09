@@ -1,4 +1,4 @@
-### Currently Focused On https://img.shields.io/badge/Medium-Medium-lightgrey👋
+### Hi there, I'm Prasad👋
 
 <p>
 <a href="https://twitter.com/Persie_verance">
