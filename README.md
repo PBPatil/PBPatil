@@ -26,7 +26,6 @@
 
 ![Prasad Patil Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PBPatil&layout=compact&theme=radical)
 
-![Prasad's github activity graph](https://activity-graph.herokuapp.com/graph?username=PBPatil&theme=dracula)
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
