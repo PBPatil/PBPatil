@@ -16,7 +16,7 @@
 <br/>
 <p>
    
-- 🌱 I’m currently learning Natural Language Processing
+- 🌱 I’m currently exploring Natural Language Processing
 - 💬 Ask me about Python, Datascience
 - 📫 You can reach me [@Persie_verance](https://twitter.com/Persie_verance)
   
