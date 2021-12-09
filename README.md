@@ -8,14 +8,17 @@
 <a href="https://medium.com/@theprasadpatil">
    <img align="left" alt="Medium" src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
 </a>&nbsp;&nbsp;
+   
+<a href="https://www.kaggle.com/prasad22">
+   <img align="left" alt="kaggle" src="https://img.shields.io/badge/kaggle-20beff?style=for-the-badge&logo=kaggle&logoColor=white" />
+</a>&nbsp;&nbsp;   
 <p/>
 <br/>
 <p>
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Natural Language Processing
 - 💬 Ask me about Python, Datascience
-- 📫 How to reach me:[@Persie_verance](https://twitter.com/Persie_verance)
+- 📫 You can reach me [@Persie_verance](https://twitter.com/Persie_verance)
 
 
 -->
