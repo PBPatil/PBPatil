@@ -15,10 +15,20 @@
 <p/>
 <br/>
 <p>
-
 - 🌱 I’m currently learning Natural Language Processing
 - 💬 Ask me about Python, Datascience
 - 📫 You can reach me [@Persie_verance](https://twitter.com/Persie_verance)
+</p>
 
+![Prasad Patil Github Stats](https://github-readme-stats.vercel.app/api?username=PBPatil&show_icons=true&include_all_commits=true&theme=radical)
 
--->
+![Prasad Patil Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PBPatil&layout=compact&theme=radical)
+
+![Prasad's github activity graph](https://activity-graph.herokuapp.com/graph?username=PBPatil&theme=dracula)
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+- [What is Exploratory Data Analysis?](https://towardsdatascience.com/exploratory-data-analysis-8fc1cb20fd15)
+- [K Means Clustering : Identifying F.R.I.E.N.D.S in the World of Strangers](https://towardsdatascience.com/k-means-clustering-identifying-f-r-i-e-n-d-s-in-the-world-of-strangers-695537505d)
+- [How to Extract Keywords from PDFs and arrange in order of their weights using Python](https://towardsdatascience.com/how-to-extract-keywords-from-pdfs-and-arrange-in-order-of-their-weights-using-python-841556083341?source=user_profile---------0-------------------------------)
+<!-- BLOG-POST-LIST:END -->
