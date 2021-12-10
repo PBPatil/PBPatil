@@ -1,13 +1,9 @@
-<p align="center"> 
-
-   ### Hi there,Welcome to my Profile👋
-
-</p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=chandrikadeb7&label=Profile%20views&color=0e75b6&style=flat" alt="chandrikadeb7" /> </p>
+<h1 align="center">Hi there<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Welcome to my Profile</h1>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=chandrikadeb7&label=Profile%20views&color=0e75b6&style=flat" alt="PBPatil" /> </p>
 
 <p>
 <a href="https://twitter.com/Persie_verance">
-   <img align="center" alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+   <img align="left" alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>&nbsp;&nbsp;
 
 <a href="https://medium.com/@theprasadpatil">
@@ -15,7 +11,7 @@
 </a>&nbsp;&nbsp;
    
 <a href="https://www.kaggle.com/prasad22">
-   <img align="center" alt="kaggle" src="https://img.shields.io/badge/Kaggle-4db5f5?style=for-the-badge&logo=kaggle&logoColor=white" />
+   <img align="righ" alt="kaggle" src="https://img.shields.io/badge/Kaggle-4db5f5?style=for-the-badge&logo=kaggle&logoColor=white" />
 </a>&nbsp;&nbsp;   
 <p/>
 <br/>
