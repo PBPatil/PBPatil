@@ -1,6 +1,6 @@
 <h1 align="center">Hi there<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Welcome to my Profile</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=PBPatil&label=Profile%20views&color=0e75b6&style=flat" alt="PBPatil" /> </p>
-[Code Time](http://img.shields.io/badge/Code%20Time-1%2C025%20hrs%2040%20mins-blue) 
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C025%20hrs%2040%20mins-blue) 
 
 <p align="center">
 <a href="https://twitter.com/Persie_verance">
