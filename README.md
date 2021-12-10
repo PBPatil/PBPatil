@@ -13,7 +13,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=PBPatil&show_icons=true&count_private=true" alt="PBPatil" />
 
-![Prasad Patil Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PBPatil&layout=compact&theme=radical)
 
 
 # Blog posts
