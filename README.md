@@ -32,5 +32,5 @@
 <a href="https://twitter.com/Persie_verance" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Persie_verance" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/9610994/prasad-patil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="prasad-patil" height="30" width="40" /></a>
 <a href="https://www.instagram.com/prasad_patil90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prasad_patil90" height="30" width="40" /></a>
-
+<a href="https://medium.com/@theprasadpatil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@theprasadpatil" height="30" width="40" /></a>
 </div>
