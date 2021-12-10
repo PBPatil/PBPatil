@@ -27,4 +27,10 @@
 <h3>Languages and Tools:</h3>
 <p><a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a></a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
 
+🔗 &nbsp;**Connect with me**
+<p>
+<a href="https://twitter.com/Persie_verance" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Persie_verance" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/9610994/prasad-patil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="prasad-patil" height="30" width="40" /></a>
+<a href="https://www.instagram.com/prasad_patil90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prasad_patil90" height="30" width="40" /></a>
+
 </div>
