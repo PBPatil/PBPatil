@@ -4,7 +4,7 @@
 
 <p>
    
-- 🌱 Soft corner for Natural Language Processing
+🌱 Soft corner for Natural Language Processing
   
 </p>
 
