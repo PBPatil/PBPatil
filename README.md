@@ -4,8 +4,7 @@
 
 <p>
    
-- 🌱 I’m currently exploring Natural Language Processing
-- 💬 Ask me about Python, Datascience
+- 🌱 Soft corner for Natural Language Processing
   
 </p>
 
